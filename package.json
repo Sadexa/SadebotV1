@@ -1,7 +1,7 @@
 {
-  "name": "games-wabot",
+  "name": "Sadebot",
   "version": "0.9.8",
-  "description": "Customizable WhatsApp Bot",
+  "description": "WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -26,9 +26,9 @@
     "Games-wabot",
     "wabot-aq"
   ],
-  "homepage": "https://github.com/BochilGaming/games-wabot",
+  "homepage": "https://github.com/Sadexa/SadebotV1",
   "author": {
-    "name": "BochilGaming"
+    "name": "Sadexa
   },
   "repository": {
     "type": "git",
